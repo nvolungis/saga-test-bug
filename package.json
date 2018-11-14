@@ -9,11 +9,11 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "redux-saga": "^0.15.6"
+    "redux-saga": "1.0.0-beta.1"
   },
   "devDependencies": {
-    "jest": "^22.4.4",
-    "redux-saga-test-plan": "^3.1.0"
+    "jest": "24.0.0-alpha.6",
+    "redux-saga-test-plan": "4.0.0-beta.1 "
   },
   "jest": {
     "globals": {
